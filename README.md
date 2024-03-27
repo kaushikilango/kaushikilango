@@ -4,7 +4,7 @@ I am Kaushik Ilango and I'm a data scientist/machine learning engineer. I'm from
 
 So to build and develop the bad boys I use mostly these technologies and tech stacks.
 ## 🔧 Technologies & Tools
-So to build and develop the bad boys I use mostly these technologies and tech stacks.
+So to build and develop the bad boys I use mostly these technologies and tech stacks.<br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
