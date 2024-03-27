@@ -5,6 +5,6 @@
 - 📫 You can reach me by email: kilango5@outlook.com or through my linkedin https://www.linkedin.com/in/kaushik-ilango/
 
 <!---
-kaushikilango/kaushikilango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kaushikilango/readme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
